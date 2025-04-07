@@ -55,9 +55,9 @@ We welcome contributions that demonstrate SAGE principles in action. To contribu
 
 All submissions will be reviewed for alignment with SAGE values before acceptance.
 
-## Connection to SAGE Framework
+## Connection to SAGEframework
 
-This repository serves as the practical companion to the [SAGE Framework](https://github.com/username/SAGE-Framework) project. While the framework provides the structural foundation, this space demonstrates living applications.
+This repository serves as the practical companion to the [SAGEframework](https://github.com/Caretaker-Sage37/SAGEframework) project. While the framework provides the structural foundation, this space demonstrates living applications.
 
 ---
 
